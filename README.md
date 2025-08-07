@@ -1,3 +1,5 @@
+# Currently an inactive project, may return some day. Outdated information
+
 # Mercury
 A simple, yet fun discord bot to help bring fun to your guild.
 
